@@ -1,0 +1,9 @@
+.br2*
+.config.old
+..config.tmp
+Makefile
+**/build/*
+**/host/*
+**/images/*
+staging
+**/target/*
